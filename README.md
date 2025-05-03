@@ -21,6 +21,6 @@ Este proyecto incluye las siguientes integraciones:
 
 # IAC-LAB
 
-ALUMNO:
+GRUPO: Los irresistibles
 - REYES ARTEAGA ALAN DAVID
 - GASTAÑUADI LESCANO RAUL ANDRES
