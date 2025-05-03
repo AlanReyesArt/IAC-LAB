@@ -1,0 +1,14 @@
+{
+    "name": "hotel-reservation-function",
+    "version": "1.0.0",
+    "description": "Función Lambda para procesar reservaciones de hotel",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+      "aws-sdk": "^2.1410.0"
+    },
+    "author": "",
+    "license": "ISC"
+  }
