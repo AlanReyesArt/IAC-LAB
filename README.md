@@ -20,3 +20,7 @@ Este proyecto incluye las siguientes integraciones:
 3. *Lambda + DynamoDB (Base de datos)*: Almacenamiento persistente de reservaciones
 
 # IAC-LAB
+
+ALUMNO:
+- REYES ARTEAGA ALAN DAVID
+- GASTAÑUADI LESCANO RAUL ANDRES
